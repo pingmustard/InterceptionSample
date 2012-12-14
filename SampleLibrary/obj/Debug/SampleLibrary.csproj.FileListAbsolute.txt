@@ -1,0 +1,9 @@
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\SampleLibrary\bin\Debug\SampleLibrary.dll
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\SampleLibrary\bin\Debug\SampleLibrary.pdb
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\SampleLibrary\obj\Debug\SampleLibrary.dll
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\SampleLibrary\obj\Debug\SampleLibrary.pdb
+C:\Utilities\InterceptionSample\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\Utilities\InterceptionSample\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\Utilities\InterceptionSample\SampleLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Utilities\InterceptionSample\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\Utilities\InterceptionSample\SampleLibrary\obj\Debug\SampleLibrary.pdb

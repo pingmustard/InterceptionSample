@@ -1,0 +1,20 @@
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.exe.config
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.exe
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.pdb
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\LinFu.Core.dll
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\SampleLibrary.dll
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\SampleLibrary.pdb
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\bin\Debug\LinFu.Core.xml
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\obj\x86\Debug\InterceptionSample.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\obj\x86\Debug\InterceptionSample.exe
+c:\users\philip\documents\visual studio 2010\Projects\InterceptionSample\InterceptionSample\obj\x86\Debug\InterceptionSample.pdb
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.exe.config
+C:\Utilities\InterceptionSample\InterceptionSample\obj\x86\Debug\InterceptionSample.exe
+C:\Utilities\InterceptionSample\InterceptionSample\obj\x86\Debug\InterceptionSample.pdb
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.exe
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\InterceptionSample.pdb
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\LinFu.Core.dll
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\SampleLibrary.dll
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\SampleLibrary.pdb
+C:\Utilities\InterceptionSample\InterceptionSample\bin\Debug\LinFu.Core.xml
+C:\Utilities\InterceptionSample\InterceptionSample\obj\x86\Debug\ResolveAssemblyReference.cache
